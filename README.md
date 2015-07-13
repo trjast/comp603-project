@@ -47,3 +47,11 @@ The format is really simple; `<http status code>` | `<path>`.
 ## License
 
 MIT
+
+
+## July 13 Status Update
+* Working on auto injection of reference paths into files
+* Javascript (Node.js)
+* We're definitely ahead of where we were looking to be, with auto injection almost complete
+* We hope to have the injection fully tested and complete, and support added for grabbing module definitions. Ben is out of town this week, Pat is working on familiarizing himself with OOP Javascript, and I (Trevor) will be working on implementing injection.
+* Food & Sleep
